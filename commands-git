@@ -1,0 +1,4 @@
+git clone + "le lien du repository"
+git push origin <branche>
+git push
+git push --all
