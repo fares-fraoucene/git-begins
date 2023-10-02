@@ -3,3 +3,6 @@ git push origin <branche>
 git push
 git push --all
 Salut
+git branch "Nom de la branch"
+git checkout [branch name]
+
